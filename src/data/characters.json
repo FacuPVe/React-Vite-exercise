@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Totoro",
+        "image": "https://media.vogue.es/photos/5ff05e472361f90ef2d5d967/4:3/w_2160,h_1620,c_limit/HP_TOTORO_Registration_2880x1620.jpg",
+        "description": "Totoro es el guardián del bosque y un espíritu amable." 
+    },
+    {
+        "name": "Chihiro",
+        "image": "https://pm1.aminoapps.com/6285/bb30793e23030d3b5941d4c924f62ab7f58501a1_128.jpg",
+        "description": "Chihiro es una joven valiente que debe salvar a sus padres en un mundo mágico." 
+    },
+    {
+        "name": "Ponyo",
+        "image": "https://i.blogs.es/eb517a/ponyo/450_1000.jpg",
+        "description": "Ponyo es una pequeña pez con sueños de convertirse en humana." 
+    }
+]
